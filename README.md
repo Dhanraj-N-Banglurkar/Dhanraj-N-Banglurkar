@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning & exploring new fields for developing & understanding my Interests.
 - 🌱 I’m currently pursuing B.E Computer Engineering
 - 💞️ I’m looking to collaborate on AI, ML & Data Sci. Projects
-- 📫 You can reach me at d.n.b272005@gmail.com 
+- 📫 You can reach me at  
 - 😄 Pronouns: DJ/Dhanno
 - ⚡ Fun fact: Python was not named after a snake.
 
